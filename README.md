@@ -4,14 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Graduate+Student+at+Anhui+University;Computer+Vision+Enthusiast;Software+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-- 🎓 Second-year graduate student at **Anhui University**
-- 🔭 Focusing on **Computer Vision** and **Software Development**
-- 🌱 Currently exploring **Deep Learning** frameworks and **Advanced Algorithms**
-- 💡 Passionate about solving real-world problems through technology
-- 🤝 Open to collaborating on interesting open-source projects
-- 📚 Always eager to learn and grow in the tech world
+<p align="center">
+  🎓 Second-year graduate student at <b>Anhui University</b><br>
+  🔭 Focusing on <b>Computer Vision</b> and <b>Software Development</b><br>
+  🌱 Currently exploring <b>Deep Learning</b> frameworks and <b>Advanced Algorithms</b><br>
+  💡 Passionate about solving real-world problems through technology<br>
+  🤝 Open to collaborating on interesting open-source projects<br>
+  📚 Always eager to learn and grow in the tech world
+</p>
 
 ## 📫 Connect With Me
 
