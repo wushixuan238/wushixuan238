@@ -9,9 +9,12 @@
 - 🎓 Second-year graduate student at **Anhui University**
 - 🔭 Focusing on **Computer Vision** and **Software Development**
 - 🌱 Currently exploring **Deep Learning** frameworks and **Advanced Algorithms**
-- 💡 Passionate about solving real-world problems through technology
 - 🤝 Open to collaborating on interesting open-source projects
 - 📚 Always eager to learn and grow in the tech world
+
+[![](https://activity-graph.herokuapp.com/graph?username=wushixuan238&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Yujun's github stats](https://github-readme-stats.vercel.app/api?username=wushixuan238&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wushixuan238&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 📫 Connect With Me
 
