@@ -13,7 +13,7 @@
 - 📚 Always eager to learn and grow in the tech world
 
 [![](https://activity-graph.herokuapp.com/graph?username=wushixuan238&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Yujun's github stats](https://github-readme-stats.vercel.app/api?username=wushixuan238](https://github.com/wushixuan238/github-readme-stats)
+![Yujun's github stats](https://github-readme-stats.vercel.app/api?username=wushixuan238)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wushixuan238&layout=compact&langs_count=6&theme=tokyonight)
 
 ## 📫 Connect With Me
