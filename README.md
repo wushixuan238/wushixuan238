@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-- 🎓 Second-year graduate student at **Anhui University**
+- 🎓 Third-year graduate student at **Anhui University**
 - 🔭 Focusing on **Computer Vision** and **Software Development**
 - 🌱 Currently exploring **Deep Learning** frameworks and **Advanced Algorithms**
 - 🤝 Open to collaborating on interesting open-source projects
